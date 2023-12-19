@@ -12,6 +12,9 @@
       <sourceFolder url="file://$MODULE_DIR$/day3/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/day3/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/day3/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/day4/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/day4/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/day4/test" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
